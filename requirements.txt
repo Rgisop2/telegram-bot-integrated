@@ -1,0 +1,12 @@
+pyrogram==2.0.83
+pyromod
+humanize
+pymongo
+Pillow
+hachoir
+TgCrypto
+dnspython
+motor
+Flask
+gunicorn
+aiohttp
